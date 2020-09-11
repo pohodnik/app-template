@@ -1,0 +1,28 @@
+{
+  "name": "app-template",
+  "version": "1.0.0",
+  "description": "Template for new JS projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pohodnik/app-template.git"
+  },
+  "author": "pohodnik58 <pohodnik58@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/pohodnik/app-template/issues"
+  },
+  "homepage": "https://github.com/pohodnik/app-template#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pohodnik",
+    "pohodnik58"
+  ],
+  "devDependencies": {
+    "@pohodnik/babel-preset": "^2.0.10",
+    "@pohodnik/eslint-config": "^1.2.2"
+  }
+}
